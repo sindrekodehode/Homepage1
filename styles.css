@@ -40,8 +40,9 @@ h3:hover {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url("./images/city.jpg");
+  background-image: url("./images/nature.jpg");
   border-radius: 50%;
+  background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   height: 200px;
